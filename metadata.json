@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciamento de Licensas",
+  "description": "A comprehensive web application for managing software licenses, users, and suppliers. Includes a dashboard with analytics, detailed tables for tracking, and forms for data management.",
+  "requestFramePermissions": []
+}
